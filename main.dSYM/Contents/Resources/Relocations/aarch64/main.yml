@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/antonsuharev/1_practice/main'
+relocations:     []
+...
